@@ -1,9 +1,12 @@
 <div align="center">
 <img src="https://i.imgur.com/6dNKJg7.png" align="center" style="width: 100%" />
 </div>
+contact
+Full Stack Web Development | Javascript | React | Redux | NodeJS | Express | PostgreSQL
 
 ### <div align="center">I'm Ernesto, a Full-Stack web developer trained by Soy Henry and pursuing a Software Engineering degree.</div>
 
+ 
 -   🔭 I’m currently working on [Proyecto Final]()
 
 -   🌱 I’m currently learning Rust and Sass
