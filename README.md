@@ -7,11 +7,11 @@ Full Stack Web Development | Javascript | React | Redux | NodeJS | Express | Pos
 ### <div align="center">I'm Ernesto, a Full-Stack web developer trained by Soy Henry and pursuing a Software Engineering degree.</div>
 
  
--   🔭 I’m currently working on [Proyecto Final]()
+-   🔭 I’m currently working on building my portfolio
 
--   🌱 I’m currently learning Rust and Sass
+-   🌱 I’m currently learning Rust and Typescript, along with Tailwind.
 
--   ❓ Ask me about anything related to PERN stack and related technologies
+-   ❓ Ask me about anything related to PERN stack and related technologies.
 
 <br/>
 
