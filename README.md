@@ -3,7 +3,7 @@
 </div>
  
  
- ###<div align="center">I'm Ernesto, a Full-Stack web developer trained by Soy Henry and pursuing a Software Engineering degree.</div>
+ <div align="center">###I'm Ernesto, a Full-Stack web developer trained by Soy Henry and pursuing a Software Engineering degree.</div>
 
  
 -   🔭 I’m currently working on building my portfolio
