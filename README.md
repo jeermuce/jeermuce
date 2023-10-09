@@ -17,8 +17,9 @@ Full Stack Web Development | Javascript | React | Redux | NodeJS | Express | Pos
 <br/>
 
 ## My Skill Set
-English C2 Proficient / Fluent
-Spanish (MX) Native
+### Languages
+- English C2 Proficient / Fluent
+- Spanish (MX) Native
 
 <table><tr><td valign="top" width="33%">
 
