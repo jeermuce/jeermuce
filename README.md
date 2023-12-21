@@ -6,10 +6,8 @@
  <div align="center" style="font-weight: bold;">I'm Ernesto, a Full-Stack web developer trained by Soy Henry and pursuing a Software Engineering degree.</div>
 
  
--   🔭 I’m currently working on varied projects to put in my portfolio
- 
--   🌱 I’m currently learning Rust and Typescript, along with Tailwind.
-
+-   🔭 I’m currently working on varied projects to put in my portfolio, taking part in the CS50x course, using Hackerrank to practice, and doing an internship at Intellsis.
+-   🌱 I’m currently learning C++, C, Rust, Typescript.
 -   ❓ Ask me about anything related to PERN stack and related technologies.
 
 <br/>
