@@ -11,7 +11,7 @@
 -   ❓ Ask me about anything related to PERN stack and related technologies.
 
 <br/>
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeermuce)](https://github.com/anuraghazra/github-readme-stats)
 ## My Skill Set
 ### Languages
 - English C2 Proficient / Fluent
