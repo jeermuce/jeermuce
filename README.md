@@ -18,7 +18,6 @@
 - English C2 Proficient / Fluent
 - Spanish (MX) Native
 
-<table><tr><td valign="top" width="33%">
 
 ### Tech
 
@@ -102,7 +101,6 @@
   <img src="https://streak-stats.demolab.com?user=jeermuce&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" width="655" alt="streak graph"  />
 </div>
 
-<img src="https://raw.githubusercontent.com/jeermuce/jeermuce/output/snake.svg" alt="Snake animation" width="655" />
 
 ---
 
