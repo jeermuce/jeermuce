@@ -7,7 +7,7 @@
 
  
 -   🔭 I’m currently working on varied projects to put in my portfolio, pursuing a Software Engineering degree, taking part in the CS50x course, participating in Remotasks as an independent contractor and doing an internship at Intellsis.
--   🌱 I’m currently learning Go, Rust, Typescript.
+-   🌱 I’m currently learning Rust, Typescript.
 -   ❓ Ask me about anything related to PERN stack and related technologies.
 
 <br/>
