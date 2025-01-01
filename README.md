@@ -3,12 +3,12 @@
 </div>
  
  
- <div align="center" style="font-weight: bold;">I'm Ernesto, a Full-Stack web developer trained by Soy Henry and pursuing a Software Engineering degree.</div>
+ <div align="center" style="font-weight: bold;">I'm Ernesto, a Full-Stack web developer trained by Soy Henry in the PERN stack and pursuing a Software Engineering degree.</div>
 
  
--   🔭 I’m currently working on varied projects to put in my portfolio, pursuing a Software Engineering degree, taking part in the CS50x course, participating in outlier as an independent contractor.
--   🌱 I’m currently learning Rust, Typescript, python.
--   ❓ Ask me about anything related to PERN stack and related technologies.
+-   🔭 I’m currently working on varied projects to put in my portfolio, pursuing a Software Engineering degree, taking part in the CS50x course.
+-   🌱 I’m currently learning Rust, using Leptos to make a full stack ssr website
+
 
 <br/>
 
